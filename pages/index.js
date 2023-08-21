@@ -7,8 +7,8 @@ export default function Home() {
     <div>
       <Head>
         <Script       
-          src={`https://cdn-cookieyes.com/client_data/7a5c4061e4800cd397a98eb3/script.js`}>
-          strategy="beforeInteractive"
+          src={`https://cdn-cookieyes.com/client_data/7a5c4061e4800cd397a98eb3/script.js`}
+          strategy="beforeInteractive">
           </Script>
        
         <title>Simple Next.js Project</title>
