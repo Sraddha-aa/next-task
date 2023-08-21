@@ -8,8 +8,9 @@ export default function Home() {
       <Head>
         <Script       
           src={`https://cdn-cookieyes.com/client_data/7a5c4061e4800cd397a98eb3/script.js`}>
-        </Script>
-        strategy="beforeInteractive"
+          strategy="beforeInteractive"
+          </Script>
+       
         <title>Simple Next.js Project</title>
         <meta name="description" content="A simple Next.js project example" />
         <link rel="icon" href="/favicon.ico" />
